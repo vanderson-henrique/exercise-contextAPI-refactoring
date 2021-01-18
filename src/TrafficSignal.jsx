@@ -1,7 +1,7 @@
 // src/TrafficSignal.jsx
 
 import React from 'react';
-import ContextCar from './ContextCar';
+import ContextCar from './context/ContextCar';
 import redSignal from './images/redSignal.jpeg';
 import yellowSignal from './images/yellowSignal.jpeg';
 import greenSignal from './images/greenSignal.jpeg';

@@ -1,7 +1,7 @@
 // src/Cars.jsx
 
 import React from 'react';
-import ContextCar from './ContextCar';
+import ContextCar from './context/ContextCar';
 import carBlue from './images/carBlue.jpeg';
 import carRed from './images/carRed.jpeg';
 import carYellow from './images/carYellow.jpeg';
